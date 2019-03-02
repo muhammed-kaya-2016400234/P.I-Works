@@ -17,6 +17,8 @@ using namespace std;
 
 bool isPrime(int a);
 vector<vector<int>> den(vector<int> a,vector<int> level,int index,int maximumLevel);
+
+
 int main(int argc,char * argv[]) {
 
     vector<int> a;
